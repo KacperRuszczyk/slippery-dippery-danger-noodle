@@ -1,2 +1,2 @@
-# slippery-dippery-noodle
-Project in C - Snake
+# Snake
+Project for classes in C 
